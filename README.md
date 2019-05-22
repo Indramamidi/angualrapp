@@ -4,4 +4,5 @@
 # AngularApp
 
 This is a basic Application in order to add two numbers
->>>>>>> b551f89d704672ba8c1e0fc3532708939833df0b
+
+The Workshop has given a lot of information about the basics of Angular JS
