@@ -5,6 +5,6 @@ angular.module("myApp", [])
     $scope.AddNumbers = function() {
         var a = Number($scope.a || 0);
         var b = Number($scope.b || 0);
-        $scope.sum = a+b;
+        $scope.sum = a*b;
     }
 }]);
